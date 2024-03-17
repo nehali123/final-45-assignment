@@ -1,21 +1,13 @@
 //storing a mathematical operations
 
-//print the value of 8 by addition 
 
-const addition:  number = 2+6;
-console.log(addition);
 
-//print the value of 8 by substraction
-
-const substraction: number = 10-2;
-console.log(substraction);
-
-//print the value of 8 by multiplication
-
-const multiplication = 2*4;
-console.log(multiplication);
-
-//print the value of 8 by division
-
+let addition = 2+6;
 let division = 16/2;
-console.log(division);
+let substraction = 10-2;
+let multiplication = 4*2;
+
+console.log(addition)
+console.log(division)
+console.log(substraction)
+console.log(multiplication)

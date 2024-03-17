@@ -1,7 +1,7 @@
 
 //assignment 45  Q#1:
 //store a personname
-let personname : string="neha";
+let personname : string="Eric";
 
 //printing a message
 console.log (`Hello ${personname} would you like to learn some Python today?  `)
